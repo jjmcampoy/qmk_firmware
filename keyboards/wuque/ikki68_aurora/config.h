@@ -70,3 +70,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 //     #define RGBLIGHT_EFFECT_RGB_TEST
 //     #define RGBLIGHT_EFFECT_ALTERNATING
 #endif
+
+/* Space cadet */
+#define LSPO_MOD KC_LSFT
+#define LSPO_KEY KC_8
+#define RSPC_MOD KC_LSFT
+#define RSPC_KEY KC_9
+
+/* default 200ms */
+#define TAPPING_TERM 300
